@@ -1,8 +1,9 @@
-#Vagrant - or - how to code in your local computer
+# Vagrant - or - how to code in your local computer
+## Resources
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google
 
-##General
-Requirements
+*What is a virtual machine
 *What is Vagrant
-*What is Ubuntu
+*Who wrote Vagrant
 *What does “Ubuntu” mean
 
